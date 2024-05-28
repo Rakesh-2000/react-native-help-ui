@@ -1,0 +1,23 @@
+{
+  "name": "react-native-help-ui",
+  "version": "1.0.0",
+  "description": "A wide array of pre-built UI components, allowing you to effortlessly create visually appealing and highly functional interfaces for iOS and Android platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakesh-2000/react-native-help-ui.git"
+  },
+  "author": "Rakesh <rakeshseervee2000@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakesh-2000/react-native-help-ui/issues"
+  },
+  "homepage": "https://github.com/Rakesh-2000/react-native-help-ui#readme",
+  "peerDependencies": {
+    "react":"18.2.0",
+    "react-native":"0.74.1"
+  }
+}
