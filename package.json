@@ -2,7 +2,7 @@
   "name": "react-native-help-ui",
   "version": "1.0.1",
   "description": "A wide array of pre-built UI components, allowing you to effortlessly create visually appealing and highly functional interfaces for iOS and Android platforms.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
